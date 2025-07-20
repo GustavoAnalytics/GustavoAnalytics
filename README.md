@@ -12,7 +12,7 @@ Apaixonado por ciência e análise de dados, transformo informações em insight
 
 📫 Você pode me encontrar no e-mail: **gustavohenriquefarias1990@gmail.com**
 
-🚀 Além do trabalho com dados, sou fundador da **Farias&Cruz Finance**, plataforma de consultoria financeira automatizada, e atuo no setor de cursos de beleza, formando profissionais de referência.
+🚀 Além do trabalho com dados, sou fundador da **Farias&Cruz Finance**, plataforma de consultoria financeira automatizada, formando profissionais de referência.
 
 ---
 
@@ -55,7 +55,7 @@ Scripts em Python realizam o ETL, tratando dados financeiros e operacionais, e s
 - Dashboard com KPIs importantes: vendas, fluxo de caixa, custos por área  
 - Visualização clara para tomada de decisão rápida e eficaz  
 
-![Dashboard](./img/dashboard.py)
+![Dashboard](./img/dashboard_exemplo.png)
 
 ---
 
