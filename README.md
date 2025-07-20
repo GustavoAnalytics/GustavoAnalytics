@@ -55,7 +55,7 @@ Scripts em Python realizam o ETL, tratando dados financeiros e operacionais, e s
 - Dashboard com KPIs importantes: vendas, fluxo de caixa, custos por área  
 - Visualização clara para tomada de decisão rápida e eficaz  
 
-![Dashboard](./img/dashboard_exemplo.png)
+![Dashboard](./img/dashboard.py)
 
 ---
 
